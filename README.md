@@ -1,6 +1,6 @@
 # Pong Game - By Jiles Smith
 
-A simple yet fun Pong game built with Python and Pygame, featuring player vs AI gameplay, score tracking, and a game over screen that appears when either side scores 11 points. The game restarts only after clicking the screen — no keyboard shortcuts needed!
+A simple yet fun Pong game built with Python and Pygame, featuring player vs AI gameplay, score tracking, and a game over screen that appears when either side scores 11 points. The game restarts only after clicking the screen no keyboard shortcuts needed!
 
 ---
 
