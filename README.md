@@ -18,12 +18,11 @@ A simple yet fun Pong game built with Python and Pygame, featuring player vs AI 
 ---
 
 ### Game in Action
-<!-- Add your screenshot here -->
-![Game Play Screenshot](<insert-image-url-here>)
+![Screenshot from 2025-04-22 11-06-44](https://github.com/user-attachments/assets/26dabd2c-a5b3-480c-92f4-4b571434ca01)
+
 
 ### Game Over Scene
-<!-- Add your screenshot here -->
-![Game Over Screenshot](<insert-image-url-here>)
+![Screenshot from 2025-04-22 11-07-12](https://github.com/user-attachments/assets/5ab1fdaf-fd2e-4d9b-b0dd-d07ab03ef9e3)
 
 ---
 
